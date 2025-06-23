@@ -1,9 +1,11 @@
-  <img 
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=triple07" 
-    width="100%"
-    align="center"
-    alt="BOJ Badge" 
-  />
+<img 
+  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=triple07" 
+  width="100%"
+  align="center"
+  alt="BOJ Badge" 
+/>
+
+---
 
 ## 📊 문제 해결 현황
 
@@ -24,9 +26,10 @@
 
 ## 📞 연락처
 
-- **백준 아이디**: `trple07`
-- **이메일**: `sins88705@gmail.com`
-- **GitHub**: `@sins42k`
+- **백준 아이디**: [triple07](https://solved.ac/profile/triple07)
+- **이메일**: [sins88705@gmail.com](mailto:sins88705@gmail.com)
+- **GitHub**: [@sins42k](https://github.com/sins42k)
+- **velog** : [@sins42k](https://velog.io/@sins42k/posts)
 
 ---
 
