@@ -15,11 +15,11 @@
 
 ### 📈 난이도별 분포
 - 🥉 **Bronze**: `50`
-  - BronzeV : `22`
-  - BronzeIV : `3`
-  - BronzeIII : `6`
-  - BronzeIV : `12`
-  - BronzeIV : `7`
+  - **BronzeV** : `22`
+  - **BronzeIV** : `3`
+  - **BronzeIII** : `6`
+  - **BronzeII** : `12`
+  - **BronzeI** : `7`
 - 🥈 **Silver**: `0`
 - 🥇 **Gold**: `0`
 - 💎 **Platinum**: `0`
