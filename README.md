@@ -14,13 +14,13 @@
 - **최근 업데이트**: `2025-07-11`
 
 ### 📈 난이도별 분포
-- 🥉 **Bronze**: `55`
+- 🥉 **Bronze**: `57`
   - **Bronze V** : `21`
   - **Bronze IV** : `3`
   - **Bronze III** : `6`
   - **Bronze II** : `13`
   - **Bronze I** : `9`
-- 🥈 **Silver**: `9`
+- 🥈 **Silver**: `11`
   - **Silver V**: `8`
   - **Silver IV**: `3`
   - **Silver III**: `0`
